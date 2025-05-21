@@ -1,8 +1,9 @@
 Sequence-to-Sequence Models for Tamil Transliteration
 This repository contains implementation and experimentation with sequence-to-sequence (seq2seq) models for Tamil transliteration, with a focus on comparing models with and without attention mechanisms. The project utilizes the Dakshina dataset, which contains parallel data of words in Latin script and their equivalent in Tamil script.
-WandB Report
-For detailed experiment results and visualizations, check out the Weights & Biases report.
-Repository Structure
+
+WandB Report - https://wandb.ai/surendarmohan283-indian-institute-of-technology-madras/DA6401_A3/reports/Surendar-s-Assignment-3--VmlldzoxMjgxOTE4Mg
+
+## Repository Structure
 ## 1. a3-with-attention.ipynb
 - This notebook implements a sequence-to-sequence model with attention mechanism. Key components include:
 
